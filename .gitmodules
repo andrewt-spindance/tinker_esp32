@@ -1,0 +1,3 @@
+[submodule "toolchain/esp-idf"]
+	path = toolchain/esp-idf
+	url = git@github.com:spindance/esp-idf.git
