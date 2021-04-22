@@ -1,6 +1,6 @@
 # ESP32: Hello World!
 
-Derived from SpinDance's [ESP32 AWS Starter](https://github.com/spindance/esp32-aws-starter), this repository is meant to serve as a quick-start for developing basic solutions on the ESP32. 
+Derived from SpinDance's [ESP32 AWS Starter](https://github.com/spindance/esp32-aws-starter), this repository is meant to serve as a quick-start for developing basic solutions on the ESP32.
 
 <!-- toc -->
 
@@ -24,7 +24,7 @@ brew install direnv
 ## Clone repo
 
 ```sh
-git clone git@github.com:lapumb-spindance/esp32-hello-world.git --recursive
+git clone git@github.com:spindance/esp32-hello-world.git --recursive
 ```
 
 * Note the `--recursive` as this will clone all submodules recursively
