@@ -21,6 +21,18 @@ brew install cmake
 brew install direnv
 ```
 
+If you use `bash`, add the following to `~/.bashrc`:
+
+```
+eval "$(direnv hook bash)"
+```
+
+If you use `zsh`, add the following to `~/.zshrc`:
+
+```
+eval "$(direnv hook zsh)"
+```
+
 ## Clone repo
 
 ```sh
